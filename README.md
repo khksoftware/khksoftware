@@ -8,26 +8,26 @@
       <p>A governed operating framework that separates architecture from implementation—whether one agent wears both hats or two agents split the work.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/khksoftware/interlock">
-        <img src="./assets/interlock-card.jpg" width="100%" alt="Interlock framework">
+      <a href="https://github.com/khksoftware/double-agent">
+        <img src="./assets/double-agent-card.jpg" width="100%" alt="Double Agent framework">
       </a>
-      <h3 align="center"><a href="https://github.com/khksoftware/interlock">Interlock</a></h3>
-      <p>Git and agent-turn constraints that fire at the point of action. Not a reminder: the action does not proceed.</p>
+      <h3 align="center"><a href="https://github.com/khksoftware/double-agent">Double Agent</a></h3>
+      <p>Operating under cover! See the declassified details of the library for supervising delegated AI agents.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/khksoftware/double-agent">
-        <img src="./assets/double-agent-card.jpg" width="100%" alt="Double Agent framework">
+      <a href="https://github.com/khksoftware/interlock">
+        <img src="./assets/interlock-card.jpg" width="100%" alt="Interlock framework">
       </a>
-      <h3 align="center"><a href="https://github.com/khksoftware/double-agent">Double Agent</a> <sub>coming soon</sub></h3>
-      <p>A new framework is operating under cover. The details—and the repository—will be declassified soon.</p>
+      <h3 align="center"><a href="https://github.com/khksoftware/interlock">Interlock</a></h3>
+      <p>Git, agent-turn, and operation cost constraints that fire at the point of action. Not a reminder: the action does not proceed.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/khksoftware/skills-n-stuff">
         <img src="./assets/skills-n-stuff-card.jpg" width="100%" alt="skills-n-stuff">
       </a>
-      <h3 align="center"><a href="https://github.com/khksoftware/skills-n-stuff">skills-n-stuff</a></h3>
+      <h3 align="center"><a href="https://github.com/khksoftware/skills-n-stuff">Skills-n-Stuff</a></h3>
       <p>Portable, product- and platform-independent skills for compaction, resumption, handoffs, and other sharp edges of long-running agent work.</p>
     </td>
   </tr>
